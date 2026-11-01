@@ -1,0 +1,15 @@
+{
+  "step2": {
+    "questions": 4,
+    "passed": 4,
+    "pass_rate": 1.0,
+    "mean_retrieval_recall": 0.917,
+    "all_gold_chunks_found": 0.75,
+    "pass_rate_by_language": {
+      "en": 1.0
+    },
+    "pass_rate_unanswerable_vs_answerable": {
+      "answerable": 1.0
+    }
+  }
+}
